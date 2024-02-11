@@ -1,0 +1,1 @@
+Strategy come from : /configs/JohnKearney1/PassivBot-Configurations-main/v5.9.11/configs_clock_softAU_2023-08-08/GTCUSDT.json

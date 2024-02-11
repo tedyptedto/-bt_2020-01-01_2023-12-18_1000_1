@@ -1,0 +1,1 @@
+Strategy come from : /configs/RustyCZ/pb-configs-main/configs/v6.0.1/recursive/2023-12-17/DOGEUSDT/01/live_config.json

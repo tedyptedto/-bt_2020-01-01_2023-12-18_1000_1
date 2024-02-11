@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.0/harmony/old/20000iters_mildAU_long_short/MATICUSDT_20221126152931_b6593/config.json

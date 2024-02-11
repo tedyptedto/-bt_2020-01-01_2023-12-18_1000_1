@@ -1,0 +1,1 @@
+Strategy come from : /configs/Enarjord/passivbot-master/configs/live/multisymbol/archived/2023-12-19_no_AU/1000XECUSDT.json

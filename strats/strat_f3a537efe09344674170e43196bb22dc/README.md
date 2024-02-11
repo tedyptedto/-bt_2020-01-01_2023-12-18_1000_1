@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.2/01-23/EMA_01-23-23/MANAUSDT_20230123002514_f23c4/config.json

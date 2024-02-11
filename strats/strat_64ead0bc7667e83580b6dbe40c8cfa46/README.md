@@ -1,0 +1,1 @@
+Strategy come from : /configs/Scud/pb-main/configs/jnk_xnxx/DOGEUSDT - jnk_xnxx.json

@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.0/particle_swarm/recursive/November/50maxhrs2022_11_10/IOTAUSDT_20221112045924_66dad/config.json

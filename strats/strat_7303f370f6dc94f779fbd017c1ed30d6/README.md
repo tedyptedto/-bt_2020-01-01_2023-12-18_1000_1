@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.3_clock/CLOCK_02_04_23_0.25_0.10_longshort/BTCUSDT_20230204225941_d3061/config.json

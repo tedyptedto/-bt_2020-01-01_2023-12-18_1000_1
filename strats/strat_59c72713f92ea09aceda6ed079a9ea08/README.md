@@ -1,0 +1,1 @@
+Strategy come from : /configs/Enarjord/passivbot-master/configs/live/multisymbol/recursive_grid/XRPUSDT.json

@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.4_unified/unified_toaster_longonly_01_safe_harmony/ADAUSDT_20230219212639_0ce2d/config.json

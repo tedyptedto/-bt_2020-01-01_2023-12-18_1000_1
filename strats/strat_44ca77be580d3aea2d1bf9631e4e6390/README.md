@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/v5.9.5/recursive/may_2023/au_disabled/recursive_longonly_04_may_29_23_noau/EOSUSDT_20230529165735_432a7/config.json

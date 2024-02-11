@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.0/harmony/old/1m/hardcore_scalp/XRPUSDT_20220811210818_adb85/config.json

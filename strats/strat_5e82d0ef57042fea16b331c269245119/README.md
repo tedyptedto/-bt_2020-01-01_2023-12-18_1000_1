@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/v5.9.5/clock/april_2023/clock_longonly_03_04_30_23_adg10/RENUSDT_20230430081243_ad5a8/config.json

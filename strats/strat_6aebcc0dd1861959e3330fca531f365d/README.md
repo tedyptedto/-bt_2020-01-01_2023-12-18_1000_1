@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/v5.9.5/clock/april_2023/clock_longonly_04_01_23/AVAXUSDT_20230402053848_504ad/config.json

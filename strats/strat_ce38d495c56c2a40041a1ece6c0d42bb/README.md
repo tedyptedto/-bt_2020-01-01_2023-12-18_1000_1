@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.4_unified/unified_toasters_longonly_01/ETHUSDT_20230310052346_ceb7b/config.json

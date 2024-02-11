@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/v5.9.5/clock/tests/unified_longonly_highadg3/ROSEUSDT_20230315034506_6d046/config.json

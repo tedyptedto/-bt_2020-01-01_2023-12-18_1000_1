@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/v5.9.5/clock/tests/longonly_adg_n_subdivisions_1/LTCUSDT_20230313060434_15b2a/config.json

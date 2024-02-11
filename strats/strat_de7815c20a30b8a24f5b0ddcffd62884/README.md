@@ -1,0 +1,1 @@
+Strategy come from : /configs/Enarjord/passivbot-master/configs/live/single_symbol_optimizations/neat_grid/KAVAUSDT.json

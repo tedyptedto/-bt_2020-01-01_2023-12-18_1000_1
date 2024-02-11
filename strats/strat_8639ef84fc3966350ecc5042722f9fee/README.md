@@ -1,0 +1,1 @@
+Strategy come from : /configs/donewiththedollar/passivbot_optimizations-main/configs/older_versions/v5.9.3_clock_realistic/clock/toaster_longonly_highadg_01/DOGEUSDT_20230307083839_1bb65/config.json
