@@ -75,7 +75,7 @@ def parcourir_et_afficher_sharpe_ratio_long(repertoire):
 
 while True:
     print(f"List of directories in {dir_base} :")
-    repertoires = [d for d in os.listdir(dir_base) if os.path.isdir(os.path.join(dir_base, d))]
+    repertoires = [d for d in os.listdir(dir_base) if os.path.isdir(os.path.join(dir_base, d)) and d != ".git"]
 
     for index, repertoire in enumerate(repertoires, start=1):
         print(f"{index}. {repertoire}")
