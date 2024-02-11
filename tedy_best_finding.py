@@ -367,7 +367,7 @@ try:
         strategy_completer = WordCompleter(strategies)
 
         # Demander à l'utilisateur quelle stratégie il souhaite voir
-        selected_strategy = prompt('Veuillez choisir une stratégie : ', completer=strategy_completer)
+        selected_strategy = prompt('Please choose a strategy : ', completer=strategy_completer)
         # print("\033[F\033[K", end="")  # Retour à la ligne et effacement
 
         # Vérifier si la stratégie choisie est présente dans le DataFrame
